@@ -12,7 +12,7 @@ TRCO is a communication framework built on risk logic. It works for any question
 
 [Whitepaper](./The_TRCO_Communication_Framework_Whitepaper.pdf): Full document with all sections, comparisons, and the complete Thinking Layer.
 
-[Quick Reference](./The_TRCO_Communication_Framework_Quick_Reference.pdf): One-page leave-behind. Read it in 60 seconds.
+[The TRCO Communication Framework](./The_TRCO_Communication_Framework_Quick_Reference.pdf): One-page leave-behind. Read it in 60 seconds.
 
 [The Security Communication Stack](./The_Security_Communication_Stack.pdf): Visual diagram showing how TRCO connects to the 5W Security Framework.
 
