@@ -1,6 +1,6 @@
 # The TRCO Communication Framework
 
-> **Today, Real Conversations Create Outcome.**
+> **Today, Real Conversations Create Outcome**
 
 TRCO is a communication framework built on risk logic. It works for any question type, any domain, and any audience. It was developed through a security and GRC background, but it applies universally wherever position, risk, response, and outcome matter.
 
