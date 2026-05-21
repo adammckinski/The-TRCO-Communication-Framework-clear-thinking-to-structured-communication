@@ -10,11 +10,11 @@ TRCO is a communication framework built on risk logic. It works for any question
 
 ## Downloads
 
-[Whitepaper](./The_TRCO_Communication_Framework_Whitepaper.pdf) — Full document with all sections, comparisons, and the complete Thinking Layer.
+[Whitepaper](./The_TRCO_Communication_Framework_Whitepaper.pdf): Full document with all sections, comparisons, and the complete Thinking Layer.
 
-[Quick Reference](./The_TRCO_Communication_Framework_Quick_Reference.pdf) — One-page leave-behind. Read it in 60 seconds.
+[Quick Reference](./The_TRCO_Communication_Framework_Quick_Reference.pdf): One-page leave-behind. Read it in 60 seconds.
 
-[The Security Communication Stack](./The_Security_Communication_Stack.pdf) — Visual diagram showing how TRCO connects to the 5W Security Framework.
+[The Security Communication Stack](./The_Security_Communication_Stack.pdf): Visual diagram showing how TRCO connects to the 5W Security Framework.
 
 ---
 
@@ -59,11 +59,11 @@ These examples can come from any field. The structure is the same regardless of 
 
 ## How to Apply TRCO
 
-**Behavioral questions** : Tell me about a time...
+**Behavioral questions**: Tell me about a time...
 
 Open with Thesis as a claim about what you believe. Let the story prove it. Close Outcome by circling back to the claim.
 
-**Situational questions** : What would you do if...
+**Situational questions**: What would you do if...
 
 Open with Thesis as your position on the right approach. Risk is what breaks without it. Control is your prescribed response. Outcome is what good looks like if executed correctly.
 
@@ -81,15 +81,15 @@ Thesis is the claim. Risk is what is at stake if the claim is wrong. Control is 
 
 TRCO scales to the time and audience available.
 
-**10 seconds : Thesis only**
+**10 seconds: Thesis only**
 
 > "A plan without a named owner is not a plan. It is a suggestion."
 
-**30 seconds : Thesis, Risk, Control headline, Outcome headline**
+**30 seconds: Thesis, Risk, Control headline, Outcome headline**
 
 Lead with the position. Name the exposure. State the response. Deliver the proof.
 
-**2 minutes : Full TRCO**
+**2 minutes: Full TRCO**
 
 All four pillars with specifics, numbers, and domain evidence. This is the senior-level answer. This is the executive brief. This is the standard worth building toward.
 
