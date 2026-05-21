@@ -4,8 +4,6 @@
 
 TRCO is a communication framework built on risk logic. It works for any question type, any domain, and any audience. It was developed through a security and GRC background, but it applies universally wherever position, risk, response, and outcome matter.
 
-"If the world is your stage and people are your critics, your job is not to please everyone. It is to communicate your position so clearly they have to take you seriously." — Adam McKinski
-
 ---
 
 ## Downloads
@@ -192,6 +190,8 @@ Author: Adam McKinski
 Year: 2026
 
 ---
+
+"If the world is your stage and people are your critics, your job is not to please everyone. It is to communicate your position so clearly they have to take you seriously." — Adam McKinski
 
 ## License
 
