@@ -59,11 +59,11 @@ These examples can come from any field. The structure is the same regardless of 
 
 ## How to Apply TRCO
 
-**Behavioral questions** — Tell me about a time...
+**Behavioral questions** : Tell me about a time...
 
 Open with Thesis as a claim about what you believe. Let the story prove it. Close Outcome by circling back to the claim.
 
-**Situational questions** — What would you do if...
+**Situational questions** : What would you do if...
 
 Open with Thesis as your position on the right approach. Risk is what breaks without it. Control is your prescribed response. Outcome is what good looks like if executed correctly.
 
@@ -81,15 +81,15 @@ Thesis is the claim. Risk is what is at stake if the claim is wrong. Control is 
 
 TRCO scales to the time and audience available.
 
-**10 seconds — Thesis only**
+**10 seconds : Thesis only**
 
 > "A plan without a named owner is not a plan. It is a suggestion."
 
-**30 seconds — Thesis, Risk, Control headline, Outcome headline**
+**30 seconds : Thesis, Risk, Control headline, Outcome headline**
 
 Lead with the position. Name the exposure. State the response. Deliver the proof.
 
-**2 minutes — Full TRCO**
+**2 minutes : Full TRCO**
 
 All four pillars with specifics, numbers, and domain evidence. This is the senior-level answer. This is the executive brief. This is the standard worth building toward.
 
@@ -167,10 +167,10 @@ For security practitioners, that framework is the [5W Security Framework](https:
 
 | TRCO Pillar | 5W Source |
 |---|---|
-| Thesis | Why — the governance mandate |
-| Risk | Where — the threat intelligence |
-| Control | What and Who — control selection and accountability |
-| Outcome | Back to Why — continuous improvement loop |
+| Thesis | Why → the governance mandate |
+| Risk | Where → the threat intelligence |
+| Control | What and Who → control selection and accountability |
+| Outcome | Back to Why → continuous improvement loop |
 
 The same principle applies in any field. Pair TRCO with the thinking model native to your domain.
 
