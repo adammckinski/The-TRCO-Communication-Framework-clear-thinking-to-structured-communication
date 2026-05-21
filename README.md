@@ -29,7 +29,7 @@ That single shift moves you from narrator to consultant. You stop reporting what
 | Pillar | What it does |
 |--------|-------------|
 | Thesis | Take a position before anything else. One declarative sentence. Confident. No hedging. |
-| Risk | Name what is at stake and why it matters. Not backstory — exposure. |
+| Risk | Name what is at stake and why it matters. Not backstory → exposure. |
 | Control | Your response to the risk. The decision, the action, the intervention. |
 | Outcome | Proof the control worked. Quantified where possible. Tied back to the thesis. |
 
