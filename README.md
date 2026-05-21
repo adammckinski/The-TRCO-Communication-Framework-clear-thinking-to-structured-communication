@@ -187,6 +187,7 @@ Any career field. Any high-stakes conversation. Any domain where position, risk,
 ## About
 
 Author: Adam McKinski
+
 Year: 2026
 
 ---
