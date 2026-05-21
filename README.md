@@ -10,7 +10,7 @@ TRCO is a communication framework built on risk logic. It works for any question
 
 ## Downloads
 
-[Whitepaper](./The_TRCO_Communication_Framework_Whitepaper.pdf): Full document with all sections, comparisons, and the complete Thinking Layer.
+[Download Whitepaper](./The_TRCO_Communication_Framework_Whitepaper.pdf): Full 6-page document. Download to read completely.
 
 [The TRCO Communication Framework](./The_TRCO_Communication_Framework.pdf): One-page leave-behind. Read it in 60 seconds.
 
